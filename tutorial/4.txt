@@ -1,0 +1,6 @@
+Your profit increases every time you
+spawn a minion. The more expensive
+the minion, the larger the increase.
+
+After a minion gets through to the other
+side of the map, the game will end!

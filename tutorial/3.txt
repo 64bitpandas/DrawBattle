@@ -1,0 +1,9 @@
+After both players have drawn a minion,
+Combat begins.
+
+Press the number keys to spawn minions:
+1,2,3,4 for player 1
+7,8,9,0 for player 2
+
+WASD to move the spawn position for P1.
+IJKL to move the spawn position for P2.

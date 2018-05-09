@@ -1,0 +1,6 @@
+Welcome to DrawBattle!
+The objective of the game is to draw your own
+minions to destroy your opponent's defenses!
+
+Press 'Next' to continue.
+	

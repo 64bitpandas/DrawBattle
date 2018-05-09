@@ -1,0 +1,11 @@
+The first phase of the game is the Drawing
+phase. This is when you can draw a minion.
+
+The color changes the speed of the minion.
+Red is 1x speed, while Dark Grey is 8x speed.
+Health can also be changed.
+Don't forget to change the slot! If a minion
+already exists in the selected slot, then it
+will be overwritten.
+
+The minion cost is displayed on the top right.
